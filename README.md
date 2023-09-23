@@ -26,27 +26,16 @@
 
 
 <div id "body" align=left>
+  
 ### About Me
 
 👋 Hello, I'm Ayodele!
 
-I am a Mid Level Software Developer and Mechanical Engineer with a passion for crafting beautiful and functional front-end designs. With expertise in Flutter and PHP Laravel, I bring creativity and technical know-how together to create stunning user interfaces and seamless user experiences.
-
-### What I Do
-
-- **Front-End Wizard**: I specialize in turning design concepts into pixel-perfect front-end implementations. My code is not just functional; it's a work of art.
-
-- **Flutter Enthusiast**: Flutter is my playground for creating cross-platform mobile apps with a native feel. I love how it empowers me to deliver dynamic, responsive, and visually appealing applications.
-
-- **PHP Laravel Maestro**: When it comes to building robust back-end systems, I turn to PHP Laravel. It's my toolkit for creating scalable and efficient web applications.
-
-### My Approach
-
-I believe in the perfect marriage of aesthetics and functionality. When I work on a project, I don't just write code; I sculpt user interfaces that engage and delight users. My attention to detail ensures that every element on the front end is harmonious and intuitive.
+I'm a seasoned software developer and mechanical engineer with expertise in Flutter and PHP Laravel. My passion lies in turning beautiful frontend designs into functional, user-friendly applications. Let's bring your ideas to life!
 
 ### Let's Connect
 
-I'm always eager to collaborate on exciting projects and bring your front-end visions to life. Feel free to reach out to me if you'd like to work together or discuss anything tech-related.
+I'm always eager to collaborate on exciting projects Feel free to reach out to me if you'd like to work together or discuss anything tech-related.
 
 📫 You can contact me at ayodelesamuelofficial@gmail.com.
 
