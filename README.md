@@ -26,16 +26,31 @@
 
 
 <div id "body" align=left>
-### About ME
+## About Me
 
-  🌱 In love with flutter & dart, building mobile apps and I recently started ML, curious to learn new technologies and collaborate on open-source projects.
+👋 Hello, I'm Ayodele!
 
-  
-- 🔭 I bring beautiful front End designs to life
-- 🔭 I’m currently working as a Frontend Engineer at Cyptocasa
-- 👯 I’m looking to collaborate on open source community projects within my locality relating to building mobile apps with flutter and ML.
-- 💬 Ask me about dart, flutter, bloc, firebase.
-- ⚡ Fun fact: started coding to build out all my crazy ideas, look at me now still looking to do same
+I am a Mid Level Software Developer and Mechanical Engineer with a passion for crafting beautiful and functional front-end designs. With expertise in Flutter and PHP Laravel, I bring creativity and technical know-how together to create stunning user interfaces and seamless user experiences.
+
+### What I Do
+
+- **Front-End Wizard**: I specialize in turning design concepts into pixel-perfect front-end implementations. My code is not just functional; it's a work of art.
+
+- **Flutter Enthusiast**: Flutter is my playground for creating cross-platform mobile apps with a native feel. I love how it empowers me to deliver dynamic, responsive, and visually appealing applications.
+
+- **PHP Laravel Maestro**: When it comes to building robust back-end systems, I turn to PHP Laravel. It's my toolkit for creating scalable and efficient web applications.
+
+### My Approach
+
+I believe in the perfect marriage of aesthetics and functionality. When I work on a project, I don't just write code; I sculpt user interfaces that engage and delight users. My attention to detail ensures that every element on the front end is harmonious and intuitive.
+
+### Let's Connect
+
+I'm always eager to collaborate on <h2>exciting<h2/> projects and bring your front-end visions to life. Feel free to reach out to me if you'd like to work together or discuss anything tech-related.
+
+📫 You can contact me at ayodelesamuelofficial@gmail.com.
+
+Let's create something amazing together!
     </div>
 
 <div id "body1" align=left>
